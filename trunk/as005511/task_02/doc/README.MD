@@ -144,7 +144,8 @@ int main()
 }
 ```
 Результаты: 
-Linear model
+
+
 **Linear model**<br>
 
 ![Screenshot LineModel](img/Linear.png)
