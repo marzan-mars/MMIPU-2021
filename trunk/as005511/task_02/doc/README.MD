@@ -29,7 +29,7 @@
 <p align="center">Ход работы </p>
 
 Код программы :
-```С++
+```c++
 #include<iostream>
 #include<math.h>
 using namespace std;
