@@ -46,4 +46,6 @@ int main() {
 }
 
 ```
+  ## Выполнение на тестовом контроллере:
   
+  ![Screenshot MarzanLAB3](MarzanLAB3.png)
