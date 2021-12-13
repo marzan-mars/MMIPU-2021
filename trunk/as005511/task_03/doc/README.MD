@@ -48,4 +48,4 @@ int main() {
 ```
   ## Выполнение на тестовом контроллере:
   
-  ![Screenshot MarzanLAB3](MarzanLAB3.jpg)
+  ![Screenshot MarzanLAB3](https://raw.githubusercontent.com/marzan-mars/MMIPU-2021/master/trunk/as005511/task_03/doc/MarzanLAB3.jpg)
